@@ -1,1 +1,1 @@
-mini game
+card-flipping game && based on html5
